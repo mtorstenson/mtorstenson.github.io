@@ -1,5 +1,10 @@
 # Martha Torstenson's Website (Based on Martin Saveski's Template)
 
+## To Do
+Add teaching/ outreach sections.
+Different profile picture?
+More publication tabs?
+
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
 
