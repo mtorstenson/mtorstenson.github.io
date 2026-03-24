@@ -134,7 +134,7 @@ title: Home
         <div class="course">
           <p class="title"><b>{{ course.title }}</b></p>
           <p>{{ course.institution }}</p>
-          <p><i>{{ course.term }}</i></p>
+          <p><i>{{ course.terms }}</i></p>
            <div class="paper-buttons">
             {% if course.course_site %}
               <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
@@ -150,7 +150,7 @@ title: Home
         <div class="course">
           <p class="title"><b>{{ course.title }}</b></p>
           <p>{{ course.institution }}</p>
-          <p><i>{{ course.term }}</i></p>
+          <p><i>{{ course.terms }}</i></p>
            <div class="paper-buttons">
             {% if course.course_site %}
               <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
@@ -167,7 +167,7 @@ title: Home
           <p class="title"><b>{{ course.title }}</b></p>
           <p>{{ course.institution }}</p>
           <p><i>{{ course.course_instructor }}</i></p>
-          <p><i>{{ course.term }}</i></p>
+          <p><i>{{ course.terms }}</i></p>
            <div class="paper-buttons">
             {% if course.course_site %}
               <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
@@ -184,7 +184,7 @@ title: Home
           <p class="title"><b>{{ course.title }}</b></p>
           <p>{{ course.institution }}</p>
           <p><i>{{ course.role }}</i></p>
-          <p><i>{{ course.term }}</i></p>
+          <p><i>{{ course.terms }}</i></p>
            <div class="paper-buttons">
             {% if course.course_site %}
               <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
