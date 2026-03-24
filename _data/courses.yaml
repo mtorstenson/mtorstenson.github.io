@@ -1,1 +1,104 @@
 courses:
+
+  - title: "BIOL/ENVI 359: Big Date in Ecology"
+    institution: "Macalester College"
+    terms: "Fall 2024, Spring 2025"
+    instructor_of_record: y
+    teaching_assistant: n
+    guest_teaching: n
+    other_teaching: n
+
+  - title: "BIOL 210: Global Change Biology"
+    institution: "Carleton College"
+    terms: "Winter 2025"
+    instructor_of_record: y
+    teaching_assistant: n
+    guest_teaching: n
+    other_teaching: n
+
+  - title: "EEB 5053: Ecology: Theory and Concepts"
+    institution: "University of Minnesota"
+    terms: "Fall 2023"
+    instructor_of_record: n
+    teaching_assistant: y
+    guest_teaching: n
+    other_teaching: n
+
+  - title: "BIOL 1961: Foundations of Biology Lab 1"
+    institution: "University of Minnesota"
+    terms: "Fall 2021"
+    instructor_of_record: n
+    teaching_assistant: y
+    guest_teaching: n
+    other_teaching: n
+
+  - title: "MATH 120: Calculus 2"
+    institution: "Carleton College"
+    terms: "Winter 2017"
+    instructor_of_record: n
+    teaching_assistant: y
+    guest_teaching: n
+    other_teaching: n
+
+  - title: "MATH 321: Real Analysis"
+    institution: "Carleton College"
+    terms: "Spring 2017"
+    instructor_of_record: n
+    teaching_assistant: y
+    guest_teaching: n
+    other_teaching: n
+    
+  - title: "Algebra 2"
+    institution: "The Conserve School"
+    terms: "Fall 2018, Spring 2019"
+    role: "Teaching Fellow"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: n
+    other_teaching: y
+
+  - title: "Pre-Calculus"
+    institution: "The Conserve School"
+    terms: "Fall 2018, Spring 2019"
+    role: "Teaching Fellow"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: n
+    other_teaching: y
+
+  - title: "Simulating Animal Migration"
+    institution: "The University of Minnesota"
+    terms: "Summer 2024"
+    role: "Nature of Life Instructor"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: n
+    other_teaching: y
+
+  - title: "ENVS 22/ EEES 181: Coupled Human Natural Systems"
+    institution: "Dartmouth College"
+    terms: "Winter 2026"
+    course_instructor: "Dr. Theresa Ong"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: y
+    other_teaching: n
+
+  - title: "BIOL 362: Arctic Ecology"
+    institution: "Macalester College"
+    terms: "Spring 2024"
+    course_instructor: "Dr. Mary Heskel"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: y
+    other_teaching: n
+
+  - title: "BIOL 261: Ecology"
+    institution: "St. Olaf College"
+    terms: "Spring 2024"
+    course_instructor: "Dr. Jake Grossman"
+    instructor_of_record: n
+    teaching_assistant: n
+    guest_teaching: y
+    other_teaching: n
+
