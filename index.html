@@ -116,6 +116,86 @@ title: Home
   </div>
 </div>
 
+<!-- ========== Teaching ========== -->
+<div class="docs-section" id="teaching">
+  <h4>Teaching</h4>
+
+  <ul class="tab-nav">
+     <!--<li><div class="button active" data-ref="#papers-selected">Selected</div></li> -->
+    <li><div class="button" data-ref="#instructor-of-record">All</div></li>
+  </ul>
+
+   <div class="tab-content">
+    <div class="tab-pane active" id="instructor-of-record">
+      {% assign instructor-of-record = site.data.courses.courses | where: "instructor_of_record", "y" %}
+      {% for course in instructor-of-record %}
+        <div class="course">
+          <p class="title"><b>{{ course.title }}</b></p>
+          <p>{{ course.institution }}</p>
+          <p><i>{{ course.term }}</i></p>
+           <div class="paper-buttons">
+            {% if course.course_site %}
+              <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="tab-pane" id="teaching-assistant">
+      {% assign teaching-assistant = site.data.courses.courses | where: "teaching_assistant", "y" %}
+      {% for course in teaching-assistant%}
+        <div class="course">
+          <p class="title"><b>{{ course.title }}</b></p>
+          <p>{{ course.institution }}</p>
+          <p><i>{{ course.term }}</i></p>
+           <div class="paper-buttons">
+            {% if course.course_site %}
+              <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="tab-pane" id="guest-teaching">
+      {% assign guest-teaching = site.data.courses.courses | where: "guest_teaching", "y" %}
+      {% for course in guest-teaching%}
+        <div class="course">
+          <p class="title"><b>{{ course.title }}</b></p>
+          <p>{{ course.institution }}</p>
+          <p><i>{{ course.course_instructor }}</i></p>
+          <p><i>{{ course.term }}</i></p>
+           <div class="paper-buttons">
+            {% if course.course_site %}
+              <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="tab-pane" id="other-teaching">
+      {% assign other-teaching = site.data.courses.courses | where: "other_teaching", "y" %}
+      {% for course in other-teaching%}
+        <div class="course">
+          <p class="title"><b>{{ course.title }}</b></p>
+          <p>{{ course.institution }}</p>
+          <p><i>{{ course.role }}</i></p>
+          <p><i>{{ course.term }}</i></p>
+           <div class="paper-buttons">
+            {% if course.course_site %}
+              <a class="button" href="{{ course.course_site | prepend: site.baseurl }}" target="_blank">Site</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+     
+     
+  </div>
+</div>
+
 <!-- ========== PROJECTS ========== 
 <div class="docs-section" id="projects">
   <h4>Projects</h4>
