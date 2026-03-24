@@ -11,7 +11,7 @@ papers:
     venue: "Ecosphere, 2025."
     paper_pdf: "https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.70369"
     code: "https://zenodo.org/records/14510659"
-    selected: n
+    selected: y
 
   - title: "Perceived and Observed Biases within Scientific Communities: A Case Study in Movement Ecology"
     authors: "Allison K. Shaw, Leila Fouda, Stefano Mezzini, Dongmin Kim, Nilanjan Chatterjee, David Wolfson, Briana Abrahms, Nina Attias, Christine E. Beardsworth, Roxanne S. Beltran, Sandra A. Binning, Kayla M. Blincow, Ying-Chi Chan, Emanuel A. Fronhofer, Arne Hegemann, Edward R. Hurme, Fabiola Iannarilli, Julie B. Kellner, Karen D. McCoy, Kasim Rafiq, Marjo Saastamoinen, Ana M. M. Sequiera, Mitchell W. Serota, Petra Sumasgutner, Yun Tao, <b>Martha Torstenson</b>, Scott W. Yanco, Kristina B. Beck, Michael G. Bertram, Larissa T. Beumer, Maja Bradaric, Jeanne Clermont, Diego Ellis-Soto, Monika Faltusova, John Fieberg, Richard J. Hall, Andrea Kölzch, Sandra Lai, Larisa Lee-Cruz, Matthias-Claudio Loretto, Alexandra Loveridge, Marcus Michelangeli, Thomas Müller, Louise Riotte-Lambert, Nir Sapir, Martina Scacco, Claire S. Teitelbaum, Francesca Cagnacci"
@@ -30,7 +30,7 @@ papers:
     venue: "Oikos, 2025."
     paper_pdf: "https://nsojournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.10862"
     code: "https://zenodo.org/records/13695479"
-    selected: n
+    selected: y
 
   - title: "Conservation of North American migratory birds: insights from emerging technologies"
     authors: "<b>Martha Torstenson</b>, David W. Wolfson, Samuel M. Safran, Desiree J. Walton, Andrew B. Hallberg, Dongmin Kim, Yi Fang Tan, Gunnar R. Kramer, David Eric Andersen"
@@ -42,14 +42,14 @@ papers:
     authors: "Allison K. Shaw, Ave T. Bisesi, Chris Wojan, Dongmin Kim, <b>Martha Torstenson</b>,Naven Narayanan, Peter Lutz, Ruby Ales, Cynthia Shao"
     venue: "Proceedings of the Royal Society B, 2024."
     paper_pdf: "https://watermark02.silverchair.com/rspb.2024.0803.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2UwggNhBgkqhkiG9w0BBwagggNSMIIDTgIBADCCA0cGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJYZxWuZvb3PdFE0nAgEQgIIDGJHtfEMwG9ZKW8dzUc1E6_5P_0gnagAQ4vRFXX4LqXVNt7TqkRhwgjj9lR00Qoj5oqzxBrpxjd98iXdAG1B6fdVjphd_HpOrJ4Nfc1Z3qZ90EgnweqcUczvBcg-EZYXrL7Lx8ogf14At0JNiZhdKYL3nTSBvuC3gbP-t2xcrFDtnmbkNXfX1qqnw53sTE4i77TG1-FE_KG1iEmDMKybygMAWvXU5AV8l27Zs8W3kN0Pv9UNlkXZ0QhPUUCMHx83-UgmOvsdAfqIqTv9KhTTdEUPyJ2tkOiNXwtc6-b56slzUwMpDKP_ZWqwOA_AKeF73Z55952G73lF6ROJDZ0EAt6PgoiYBGfNqxCUSeMt8vjGb6Dg1NBmdYAVhoYX4Lo6cKnRTuH3Chs-EJYYesWNcqd6awAxQe2rVn-Zz6uK_tCmvjkEyrMaZCbWpDvCJopPgPNNR_FJs-pZCkJxPxop8qa0ejevKc48n8VOXat8WBw4_gGsOnVA1WLXi7eQyaNC4nPiLwi2uM1MoUUXSjdPUYX3lroqwj6QOG3Yv1ziI1CXH8e313uIuU5Siu8nNE1_tqusmI2cXHm2wBw0L6CjktciBZndllp768QgmR9b_gVy6lYTkDA7xcQofcmSsg0867fF6Tbvz9TpOTrcRtCMX7Jf4MlRLRznrh818BFRaEIBXV5sTOh6nTJgPu7Ym7xwqcxYFglwjhsGWhOiev4pyc9KoajlBuRXpcmIk99TKCWIIgibqDXOS40Yvrv834TI9FV93UMhBgYJ1WhPCNQbCi8jSfiqCndW3FVTTBs-_WKKOBKGcSDGzB5fyvkfFKofSjAY6ETErNNuC-3hssE_aSUsRKJOooXo4zYg6hVkk7bNbVvb0M13GYs65ZYh73L5Xq3K5ArtO_8MYJdEIWXX6CJ-wNCUhoatDXQk8jlcZlZcVRMbaQoN7V02ZhGOGmOtKmmGPitETRJYS8eODFVql-HMh1OubeeoRm-8YIM4HTcbGMrpHkuMLkXFvUjbmliVlsANgsIF4D-1qKACS9V6tTzOIS_jVc1xivw"
-    selected: n
+    selected: y
 
   - title: "Pathogen evolution following spillover from a resident to a migrant host population depends on interactions between host pace of life and tolerance to infection"
     authors: "<b>Martha Torstenson</b>, Allison K. Shaw"
     venue: "Journal of Animal Ecology, 2024."
     paper_pdf: "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14075"
     code: "https://zenodo.org/records/10723759"
-    selected: n
+    selected: y
 
   - title: "Gaps in modelling animal migration with evolutionary game theory: infection can favour the loss of migration"
     authors: "Allison K. Shaw, <b>Martha Torstenson</b>, Meggan E. Craft, Sandra A. Binning" 
